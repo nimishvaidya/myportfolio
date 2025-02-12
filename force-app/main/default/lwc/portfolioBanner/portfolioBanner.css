@@ -23,3 +23,8 @@
     width: 40px;
     margin: 16px 16px 0px 0px;
 }
+.notice{
+    font-size: 32px;
+    font-weight: 700;
+    color:red;
+}
