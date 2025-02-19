@@ -17,7 +17,7 @@ export default class PortfolioBanner extends LightningElement {
     @api blogUrl //= 'https://www.salesforcetroop.com/'
 
 
-    userPic = `${PortfolioAssets}/PortfolioAssets/userPic.jpeg`
+    userPic = `${PortfolioAssets}/PortfolioAssets/nimish_profile_pic.jpeg`
     linkedin = `${PortfolioAssets}/PortfolioAssets/Social/linkedin.svg`
     youtube = `${PortfolioAssets}/PortfolioAssets/Social/youtube.svg`
     github = `${PortfolioAssets}/PortfolioAssets/Social/github.svg`
